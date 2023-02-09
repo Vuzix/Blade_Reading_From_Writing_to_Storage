@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Storage Sample</string>
+    <string name="Info">For more information see the Android LogCat and Source Code</string>
+</resources>
